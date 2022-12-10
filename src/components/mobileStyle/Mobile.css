@@ -1,0 +1,62 @@
+
+
+@media(max-width: 375px) {
+    #root {
+      padding-bottom: 50px;
+    }
+  
+    .todoForm {
+      height: 150px;
+      flex-direction: column;
+    }
+  
+    .todo_input {
+      width: 327px;
+      height: 44px;
+      margin-left: -29px;
+    }
+  
+    .todoButton {
+      width: 92px;
+      height: 44px;
+      position: absolute;
+      top: 60px;
+      left: 206px;
+    }
+  
+    .taskLabel {
+      position: absolute;
+      left: -30px;
+      top: -29px;
+    }
+  
+    .compCheckDiv {
+      right: -33px;
+    }
+  
+    .content {
+      width: 327px;
+    }
+  
+    .content h4 {
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 21px;
+      letter-spacing: 0.2px;
+    }
+  
+    .content h2 {
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 27px;
+    }
+  
+    .todoItem {
+      width: 327px;
+    }
+  
+    .todo_text {
+      margin-left: -10px;
+      width: 220px;
+    }
+  }

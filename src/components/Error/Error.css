@@ -1,0 +1,15 @@
+.error-message p {
+    width: auto;
+    height: 18px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: #FF3104;
+  }
+
+  .error-message {
+    height: 20px;
+  }
